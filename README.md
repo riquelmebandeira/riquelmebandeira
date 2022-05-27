@@ -8,7 +8,7 @@
 
 - 💻 Estudo desenvolvimento de software web na <a href="https://www.betrybe.com/"><b>Trybe</b></a>;
 
-- 🌱 Atualmente estou aprendendo TypeScript e descobrindo o quanto já teria me ajudado 😆;
+- 🌱 Atualmente estou aprendendo uma nova linguagem: Python! 🐍;
 
 - 👻 Literatura de horror é a minha favorita e gosto de estudar artes no meu tempo livre.
 
@@ -25,6 +25,9 @@
   </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </a>
   </a>
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> 
