@@ -5,7 +5,7 @@
    <b>Friedrich Nietzsche</b>
 </p>
 
----
+<br>
 
 <img src="https://c.tenor.com/mGi-wrUgbPAAAAAC/avengers-endgame-hands-together.gif" align="right" height="200px"/>
 
@@ -15,6 +15,7 @@ Olá mundo! Eu me chamo Riquelme e sou um desenvolvedor Full Stack Jr totalmente
 - Estou aprendendo uma nova linguagem: Python!;
 - Uma das grandes paixões da minha vida é a música ❤️🎻.
 
+<br>
 <br>
 
 <h2 align="center">Linguagens e ferramentas</h2>
@@ -39,4 +40,4 @@ Olá mundo! Eu me chamo Riquelme e sou um desenvolvedor Full Stack Jr totalmente
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=riquelmebandeira&show_icons=true&locale=en" alt="riquelmebandeira" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riquelmebandeira&show_icons=true&locale=en&layout=compact" alt="riquelmebandeira" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=riquelmebandeira&show_icons=true&locale=en&layout=compact" alt="riquelmebandeira" /></p>
