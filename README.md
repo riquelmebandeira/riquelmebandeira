@@ -40,4 +40,4 @@ Olá mundo! Eu me chamo Riquelme e sou um desenvolvedor Full Stack Jr totalmente
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=riquelmebandeira&show_icons=true&locale=en" alt="riquelmebandeira" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=riquelmebandeira&show_icons=true&locale=en&layout=compact" alt="riquelmebandeira" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riquelmebandeira&show_icons=true&locale=en&layout=compact" alt="riquelmebandeira" /></p>
