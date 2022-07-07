@@ -5,21 +5,20 @@
    <b>Friedrich Nietzsche</b>
 </p>
 
+---
+
 <br>
 
-<img src="https://c.tenor.com/mGi-wrUgbPAAAAAC/avengers-endgame-hands-together.gif" align="right" height="200px"/>
-
-Olá mundo! Eu me chamo Riquelme e sou um desenvolvedor Full Stack Jr totalmente movido a desafios, apaixonado por resolver problemas e criar coisas; especialmente ao lado de outras pessoas! 
+Olá mundo! Eu me chamo **Riquelme** e sou um **desenvolvedor Full Stack Jr** totalmente movido a desafios, apaixonado por resolver problemas e criar coisas; especialmente ao lado de outras pessoas! 
 
 - Atualmente estudo desenvolvimento web na <a href="https://www.betrybe.com/"><b>Trybe</b></a>;
 - Estou aprendendo uma nova linguagem: Python!;
 - Uma das grandes paixões da minha vida é a música ❤️🎻.
 
 <br>
-<br>
 
-<h2 align="center">Linguagens e ferramentas</h2>
-<div align="center">
+<h2 align="left">Linguagens e ferramentas</h2>
+<div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="40" /> 
@@ -37,7 +36,7 @@ Olá mundo! Eu me chamo Riquelme e sou um desenvolvedor Full Stack Jr totalmente
 </div>
 
 <br>
+<br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=riquelmebandeira&show_icons=true&locale=en" alt="riquelmebandeira" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riquelmebandeira&show_icons=true&locale=en&layout=compact" alt="riquelmebandeira" /></p>
+![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=riquelmebandeira&show_icons=true)
+![My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=riquelmebandeira&show_icons=true&locale=en&layout=compact)
