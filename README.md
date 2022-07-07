@@ -38,5 +38,5 @@ Olá mundo! Eu me chamo **Riquelme** e sou um **desenvolvedor Full Stack Jr** to
 <br>
 <br>
 
-![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=riquelmebandeira&show_icons=true)
-![My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=riquelmebandeira&show_icons=true&locale=en&layout=compact)
+| <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=riquelmebandeira&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"/> | <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmebandeira&layout=compact&hide_border=true" /> |
+| ------------- | ------------- |
