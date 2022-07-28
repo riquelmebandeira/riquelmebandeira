@@ -1,19 +1,12 @@
-<h1 align="center">Sobre mim</h1>
+<h2 align="left">Sobre mim</h2>
 
-<p align="center">
-   <i>"Sem a música a vida seria um erro."</i><br/>
-   <b>Friedrich Nietzsche</b>
-</p>
+E aí?! Eu me chamo **Riquelme**, tenho 20 anos e sou um **desenvolvedor Full Stack** que gosta de ser desafiado com coisas que me fazem ir além e elevam meu conhecimento. Também adoro trabalhar em equipe e colaborar com outras pessoas :)
 
----
+Há cerca de um ano atrás, iniciei minha jornada na programação e desenvolvi inúmeros projetos na minha trajetória como estudante da Trybe, seguindo metodologias ágeis e outras práticas de mercado, como: **orientação a testes** e **code review**.
 
-<br>
-
-Olá mundo! Eu me chamo **Riquelme** e sou um **desenvolvedor Full Stack Jr** totalmente movido a desafios, apaixonado por resolver problemas e criar coisas; especialmente ao lado de outras pessoas! 
-
-- Atualmente estudo desenvolvimento web na <a href="https://www.betrybe.com/"><b>Trybe</b></a>;
-- Estou aprendendo uma nova linguagem: Python!;
-- Uma das grandes paixões da minha vida é a música ❤️🎻.
+- Estudei desenvolvimento web na <a href="https://www.betrybe.com/"><b>Trybe</b></a>;
+- Estou fazendo meu primeiro jogo de plataforma com amigos;
+- Sou um amante das artes, em especial, a música ❤️🎻.
 
 <br>
 
