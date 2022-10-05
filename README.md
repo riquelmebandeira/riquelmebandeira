@@ -1,16 +1,16 @@
-<h2 align="left">Sobre mim</h2>
+## About me
 
-E aí?! Eu me chamo **Riquelme**, tenho 20 anos e sou um **desenvolvedor Full Stack** que gosta de ser desafiado com coisas que me fazem ir além e elevam meu conhecimento. Também adoro trabalhar em equipe e colaborar com outras pessoas :)
+Hey there! My name is **Riquelme** and i'm a full stack developer based in Brazil :smile: <br/>
+I'm passionate about the creative potential of things and exploring it with other people!
 
-Há cerca de um ano atrás, iniciei minha jornada na programação e desenvolvi inúmeros projetos na minha trajetória como estudante da Trybe, seguindo metodologias ágeis e outras práticas de mercado, como: **orientação a testes** e **code review**.
+A few things about me:
+- I studied Web Development at [Trybe](https://www.betrybe.com/);
+- I'm currently learning **Vue.js**!
+- Fun fact: Drawing charges my energies more than coffee :laughing:
 
-- Estudei desenvolvimento web na <a href="https://www.betrybe.com/"><b>Trybe</b></a>;
-- Estou fazendo meu primeiro jogo de plataforma com amigos;
-- Sou um amante das artes, em especial, a música ❤️🎻.
+<br/>
 
-<br>
-
-<h2 align="left">Linguagens e ferramentas</h2>
+## Skills and tools
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="40" />
