@@ -4,7 +4,7 @@ Hey there! My name is **Riquelme** and i'm a full stack developer. :smile: <br/>
 
 A few things about me:
 - I studied Web Development at [Trybe](https://www.betrybe.com/);
-- I'm passionate about the creative potential of things
+- I'm passionate about the creative potential of things;
 - Brazilian 🇧🇷
 
 <br/>
