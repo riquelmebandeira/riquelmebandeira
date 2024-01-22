@@ -1,12 +1,11 @@
 ## About me
 
-Hey there! My name is **Riquelme** and i'm a full stack developer based in Brazil :smile: <br/>
-I'm passionate about the creative potential of things and exploring it with other people!
+Hey there! My name is **Riquelme** and i'm a full stack developer. :smile: <br/>
 
 A few things about me:
 - I studied Web Development at [Trybe](https://www.betrybe.com/);
-- I'm currently learning **Vue.js**!
-- Fun fact: Drawing charges my energies more than coffee :laughing:
+- I'm passionate about the creative potential of things
+- Brazilian 🇧🇷
 
 <br/>
 
